@@ -1,4 +1,4 @@
-# portfolio-Hannes-Hedberg
+# Portfolio-Hannes-Hedberg
 
 Hej, mitt namn är Hannes Hedberg
 
