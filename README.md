@@ -25,6 +25,8 @@ I am an asipring Software engineer
 
 ## IT-Högskolan :notebook:
 
+<img src="assets/Python_Text.gif" alt="Coding man" width="50%" height="20%" />
+
 | Courses                   | Description                        |
 | ------------------------------ | ---------------------------------- |
 | [Python Programming][course1] | First course in Python, creating a solid ground and understanding of the language.                   |
@@ -44,7 +46,7 @@ I am an asipring Software engineer
 ---
 
 
-## Empire at War Expanded (EAWX) :muscle:
+## Empire at War Expanded (EAWX) :star:
 
 
 
@@ -58,13 +60,13 @@ One of the larger projects im apart of is large mod for Star Wars Empire at War 
 
 I have personally been part of the team for nearly 3 years now, and along with a team of roughly 30 modders we strive to mod Empire at war to make the best star wars strategy game on the market. Personally i have been a Sound Engineer for the team, wheter it being brand new sounds and voices or importing something from a show or movie i have contributed with thousands of sound files for the mods. Other than that i also worked closley with one of the teams animators to create the trailer you can see above, i also have my own cinematic currently under production but as of yet far from being finished.
 
-Discord: [^5]
+EAWX has a large community with over 10 000+ members on our discord, intrested to see for yourself? Here is an invite link just for you: [^5]
 
 
 | Empire at War Expanded (EAWX)                    | Description                        |
 | ------------------------------ | ---------------------------------- |
 | [Thrawns Revenge][Ex1]                | Creates a new univerese based on star wars legends with tons of new factions and mechanics.                   |
-| [Fall of The Republic][Ex2]                | Brings the players into the era of the *Clone Wars* one of the most devestating conflicts of the star wars eras, where players can attempt to maintain order as the Grand Army of the Republic or reap chaos as the Sepratist movement.                               |
+| [Fall of The Republic][Ex2]                | Brings the players into the era of the *Clone Wars* one of the most devestating conflicts of the star wars eras, where players can attempt to maintain order as the Grand Army of the Republic or reap chaos as the Sepratist movement. This is the mod i have personally had most work done in.                               |
 | [Revans Revenge][Ex3]                | Based on the old republic, ancient history in star wars. Not released yet.                                 |
 
 
@@ -74,14 +76,16 @@ Discord: [^5]
 
 <img src="assets/attack.gif" alt="Coding man" width="70%" height="40%" />
 
-*YouTube* [^4]
+*This is a clip from one of my own renders, see the full clip on YouTube* [^4]
 
 ## Personal Projects :flashlight:
 
+These are some of my personal projects, currently limited to the game series Arma III, which is a military simulator. 
+
 | Mods                    | Description                        |
 | ------------------------------ | ---------------------------------- |
-| [Ultimate Music Collection (UMC)][lab1]                | Setting up Github                  |
-| [Ultimate Flag Collection (UFC) ][lab2]                | TBA                                |
+| [Ultimate Music Collection (UMC)][lab1]                | Gives mission creators and players a large amount of music to set the mood for stealthy operation, action packed combat or relaxing ambiance.                  |
+| [Ultimate Flag Collection (UFC) ][lab2]                | Provides uniforms with tons of different flag patches and emblems to help players represent their countires and nationalites on the battlefield.                               |
 
 
 
@@ -89,7 +93,6 @@ Discord: [^5]
 [lab1]: https://steamcommunity.com/sharedfiles/filedetails/?id=827584830
 [lab2]: https://steamcommunity.com/sharedfiles/filedetails/?id=1870770453
 
-<img src="assets/Python_Text.gif" alt="Coding man" width="50%" height="20%" />
 
 ## Contact me :email:
     https://www.linkedin.com/in/hannes-hedberg-63854719b/
