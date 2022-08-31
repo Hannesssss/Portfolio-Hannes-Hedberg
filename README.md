@@ -11,11 +11,12 @@ Hello there, my name is Hannes.
 
 # Hannes Hedberg :computer:
 
-This respitory contains all my portfolio of my experiences sofar. Including IT
+This respitory contains my portfolio, displaying my experiences and projects sofar. Including IT - Högskolan, Empire at War Expanded and personal projects.
 
----
+
 
 ## About me :speaker:
+
 I am an asipring Software engineer
 
 ---
@@ -53,53 +54,45 @@ Link to trailer on youtube [^3]
 
 "Palpatine's machinations and the decay of the Republic have brought the galaxy into the most destructive war it's ever seen. The Separatist droid armies threaten to overrun the Republic and no matter who comes out on top, the course of galactic history will be altered forever..."
 
-One of the larger projects im apart of is large mod for Star Wars Empire at War [^2] by Petroglyph Games [^1]
+One of the larger projects im apart of is large mod for Star Wars Empire at War [^2] by Petroglyph Games [^1] . Since updates for the game stopped more than 10 years ago its been up to the modders to keep the game fresh. With over 500 000 steam subcribers and countless more downloads from Modb its safe to say that EAWX is responsible for some of the most popular mods for this old game. 
+
+I have personally been part of the team for nearly 3 years now, and along with a team of roughly 30 modders we strive to mod Empire at war to make the best star wars strategy game on the market. Personally i have been a Sound Engineer for the team, wheter it being brand new sounds and voices or importing something from a show or movie i have contributed with thousands of sound files for the mods. Other than that i also worked closley with one of the teams animators to create the trailer you can see above, i also have my own cinematic currently under production but as of yet far from being finished.
+
+Discord: [^5]
 
 
-| Exercies                    | Description                        |
+| Empire at War Expanded (EAWX)                    | Description                        |
 | ------------------------------ | ---------------------------------- |
-| [Thrawns Revenge][Ex1]                | Setting up Github                  |
-| [Fall of The Republic][Ex2]                | TBA                                |
-| [Exercise 3][Ex3]                | TBA                                |
-| [Exercise 4][Ex4]                | TBA                                |
-| [Exercise 5][Ex5]                | TBA                                |
+| [Thrawns Revenge][Ex1]                | Creates a new univerese based on star wars legends with tons of new factions and mechanics.                   |
+| [Fall of The Republic][Ex2]                | Brings the players into the era of the *Clone Wars* one of the most devestating conflicts of the star wars eras, where players can attempt to maintain order as the Grand Army of the Republic or reap chaos as the Sepratist movement.                               |
+| [Revans Revenge][Ex3]                | Based on the old republic, ancient history in star wars. Not released yet.                                 |
 
 
 [Ex1]: https://steamcommunity.com/sharedfiles/filedetails/?id=1125571106
 [Ex2]: https://steamcommunity.com/sharedfiles/filedetails/?id=1976399102
-[Ex3]: 
-[Ex4]: 
-[Ex5]:
+[Ex3]: https://steamcommunity.com/sharedfiles/filedetails/?id=1125571106
 
-https://user-images.githubusercontent.com/58343310/187741981-546bb2f2-1ba4-4efa-95b4-b228c57439a7.mp4
+<img src="assets/attack.gif" alt="Coding man" width="70%" height="40%" />
 
-
+*YouTube* [^4]
 
 ## Personal Projects :flashlight:
 
-| Laborations                    | Description                        |
+| Mods                    | Description                        |
 | ------------------------------ | ---------------------------------- |
 | [Ultimate Music Collection (UMC)][lab1]                | Setting up Github                  |
 | [Ultimate Flag Collection (UFC) ][lab2]                | TBA                                |
-| [Lab 3][lab3]                | TBA                                |
-| [Lab 4][lab4]                | TBA                                |
-| [Lab 5][lab5]                | TBA                                |
+
 
 
 
 [lab1]: https://steamcommunity.com/sharedfiles/filedetails/?id=827584830
 [lab2]: https://steamcommunity.com/sharedfiles/filedetails/?id=1870770453
-[lab3]: 
-[lab4]: 
-[lab5]:
 
 <img src="assets/Python_Text.gif" alt="Coding man" width="50%" height="20%" />
 
 ## Contact me :email:
     https://www.linkedin.com/in/hannes-hedberg-63854719b/
-   
-
-
 
 
 
@@ -108,4 +101,8 @@ https://user-images.githubusercontent.com/58343310/187741981-546bb2f2-1ba4-4efa-
 [^2]: https://store.steampowered.com/app/32470/STAR_WARS_Empire_at_War__Gold_Pack/
 
 [^3]: https://youtu.be/iF_VjEOri-U
+
+[^4]: https://youtu.be/EkCtEK4VXV4
+
+[^5]: https://discord.gg/HBPTSKVcMr
 
