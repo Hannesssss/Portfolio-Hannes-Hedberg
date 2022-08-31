@@ -46,7 +46,7 @@ I am an asipring Software engineer
 
 | Python Programming                   | Description                        |
 | ------------------------------ | ---------------------------------- |
-| [python_programming][l0]                | Python programming                   |
+| [Python Programming][l0]                | Python programming                   |
 | [Lecture 1][l1]                | If Statement                       |
 | [Lecture 2][l2]                | TBA                                |
 | [Lecture 3][L3]                | TBA                                |
