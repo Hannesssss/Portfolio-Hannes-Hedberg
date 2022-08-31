@@ -62,12 +62,12 @@ I am an asipring Software engineer
 
 ---
 
-## Labs :flashlight:
+## Personal Projects :flashlight:
 
 | Laborations                    | Description                        |
 | ------------------------------ | ---------------------------------- |
-| [Lab 1][lab1]                | Setting up Github                  |
-| [Lab 2][lab2]                | TBA                                |
+| [Ultimate Music Collection (UMC)][lab1]                | Setting up Github                  |
+| [Ultimate Flag Collection (UFC) ][lab2]                | TBA                                |
 | [Lab 3][lab3]                | TBA                                |
 | [Lab 4][lab4]                | TBA                                |
 | [Lab 5][lab5]                | TBA                                |
@@ -85,8 +85,8 @@ I am an asipring Software engineer
 
 | Exercies                    | Description                        |
 | ------------------------------ | ---------------------------------- |
-| [Exercise 1][Ex1]                | Setting up Github                  |
-| [Exercise 2][Ex2]                | TBA                                |
+| [Thrawns Revenge][Ex1]                | Setting up Github                  |
+| [Fall of The Republic][Ex2]                | TBA                                |
 | [Exercise 3][Ex3]                | TBA                                |
 | [Exercise 4][Ex4]                | TBA                                |
 | [Exercise 5][Ex5]                | TBA                                |
