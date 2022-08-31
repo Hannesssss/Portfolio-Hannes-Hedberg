@@ -74,8 +74,8 @@ I am an asipring Software engineer
 
 
 
-[lab1]: https://github.com/Hannesssss/Python-Programming-Hannes-Hedberg
-[lab2]: 
+[lab1]: https://steamcommunity.com/sharedfiles/filedetails/?id=827584830
+[lab2]: https://steamcommunity.com/sharedfiles/filedetails/?id=1870770453
 [lab3]: 
 [lab4]: 
 [lab5]:
@@ -92,8 +92,8 @@ I am an asipring Software engineer
 | [Exercise 5][Ex5]                | TBA                                |
 
 
-[Ex1]: https://github.com/Hannesssss/Python-Programming-Hannes-Hedberg
-[Ex2]: 
+[Ex1]: https://steamcommunity.com/sharedfiles/filedetails/?id=1125571106
+[Ex2]: https://steamcommunity.com/sharedfiles/filedetails/?id=1976399102
 [Ex3]: 
 [Ex4]: 
 [Ex5]:
