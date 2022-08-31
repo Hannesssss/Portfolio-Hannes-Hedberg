@@ -42,26 +42,21 @@ I am an asipring Software engineer
 
 # References
 
-## Courses at ITHS :notebook:
+## It-Högskolan :notebook:
 
-| Python Programming                   | Description                        |
+| Courses                   | Description                        |
 | ------------------------------ | ---------------------------------- |
-| [Python Programming][l0]                | Python programming                   |
-| [Lecture 1][l1]                | If Statement                       |
-| [Lecture 2][l2]                | TBA                                |
-| [Lecture 3][L3]                | TBA                                |
-| [Lecture 4][l4]                | TBA                                |
+| [Python Programming][course1]                | Python programming                   |
+| [tba][l1]                | TBA                       |
+| [tba][l2]                | TBA                                |
+| [tba][L3]                | TBA                                |
+| [tba][l4]                | TBA                                |
 
 <img src="assets/coding.gif" alt="Coding man" width="30%" height="20%" />
 
 <!-- Comment -->
 
-[l0]: https://github.com/Hannesssss/Python-Programming-Hannes-Hedberg
-[l1]:
-[l2]: 
-[l3]: 
-[l4]: 
-[l5]: 
+[course1]: https://github.com/Hannesssss/Python-Programming-Hannes-Hedberg 
 
 ---
 
