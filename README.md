@@ -46,17 +46,19 @@ I am an asipring Software engineer
 
 | Courses                   | Description                        |
 | ------------------------------ | ---------------------------------- |
-| [Python Programming][course1]                | Python programming                   |
-| [tba][l1]                | TBA                       |
-| [tba][l2]                | TBA                                |
-| [tba][L3]                | TBA                                |
-| [tba][l4]                | TBA                                |
+| [Python Programming][course1] | Python programming                   |
+| [tba][course2]                | TBA                                   |
+| [tba][course3]                | TBA                                |
+| [tba][course4]                | TBA                                |
 
 <img src="assets/coding.gif" alt="Coding man" width="30%" height="20%" />
 
 <!-- Comment -->
 
 [course1]: https://github.com/Hannesssss/Python-Programming-Hannes-Hedberg 
+[course2]: https://github.com/Hannesssss
+[course3]: https://github.com/Hannesssss
+[course4]: https://github.com/Hannesssss
 
 ---
 
