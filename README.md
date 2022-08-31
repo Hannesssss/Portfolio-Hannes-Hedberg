@@ -42,7 +42,7 @@ I am an asipring Software engineer
 
 # References
 
-## It-Högskolan :notebook:
+## IT-Högskolan :notebook:
 
 | Courses                   | Description                        |
 | ------------------------------ | ---------------------------------- |
