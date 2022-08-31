@@ -40,11 +40,13 @@ I am an asipring Software engineer
 
 ---
 
-## Lectures :notebook:
+# References
 
-| Code Alongs                    | Description                        |
+## Courses at ITHS :notebook:
+
+| Python Programming                   | Description                        |
 | ------------------------------ | ---------------------------------- |
-| [Lecutre 0][l0]                | Input and Output                   |
+| [python_programming][l0]                | Python programming                   |
 | [Lecture 1][l1]                | If Statement                       |
 | [Lecture 2][l2]                | TBA                                |
 | [Lecture 3][L3]                | TBA                                |
@@ -55,7 +57,7 @@ I am an asipring Software engineer
 <!-- Comment -->
 
 [l0]: https://github.com/Hannesssss/Python-Programming-Hannes-Hedberg/blob/main/Code_Along/L0-input-output.ipynb
-[l1]: https://github.com/Hannesssss/Python-Programming-Hannes-Hedberg/blob/main/Code_Along/L1-if-statements.ipynb
+[l1]:
 [l2]: 
 [l3]: 
 [l4]: 
