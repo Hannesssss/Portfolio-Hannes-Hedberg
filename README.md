@@ -46,7 +46,7 @@ I am an asipring Software engineer
 
 | Courses                   | Description                        |
 | ------------------------------ | ---------------------------------- |
-| [Python Programming][course1] | Python programming                   |
+| [Python Programming][course1] | First course in Python, creating a solid ground and understanding of the language.                   |
 | [tba][course2]                | TBA                                   |
 | [tba][course3]                | TBA                                |
 | [tba][course4]                | TBA                                |
