@@ -56,7 +56,7 @@ I am an asipring Software engineer
 
 <!-- Comment -->
 
-[l0]: https://github.com/Hannesssss/Python-Programming-Hannes-Hedberg/blob/main/Code_Along/L0-input-output.ipynb
+[l0]: https://github.com/Hannesssss/Python-Programming-Hannes-Hedberg
 [l1]:
 [l2]: 
 [l3]: 
