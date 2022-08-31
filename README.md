@@ -1,15 +1,4 @@
-# Portfolio-Hannes-Hedberg
-
-Hello there, my name is Hannes.
-
-
-
-
-
-
-
-
-# Hannes Hedberg :computer:
+# Portfolio-Hannes-Hedberg :computer:
 
 This respitory contains my portfolio, displaying my experiences and projects sofar. Including IT - Högskolan, Empire at War Expanded and personal projects.
 
