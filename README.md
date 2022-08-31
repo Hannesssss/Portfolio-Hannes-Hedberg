@@ -80,7 +80,7 @@ EAWX has a large community with over 10 000+ members on our discord, intrested t
 
 ## Personal Projects :flashlight:
 
-These are some of my personal projects, currently limited to the game series Arma III, which is a military simulator. 
+These are some of my personal projects, currently limited to the game series Arma III, which is a military simulator. With roughly 30 000 subscribers on steam workshop.
 
 | Mods                    | Description                        |
 | ------------------------------ | ---------------------------------- |
