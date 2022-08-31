@@ -17,13 +17,19 @@ This respitory contains my portfolio, displaying my experiences and projects sof
 
 ## About me :speaker:
 
-I am an asipring Software engineer
+First of all, welcome to my portfolio! Here i am trying to gather up and showcase all of my previous experiences from school, personal projects and eventually work. I am an asipring Software engineer who currently works at Volvo Cars. Im a Student at IT Högskolan where i studying AI developer and Machine Learning, starting 2022 with an expected exam at 2024.
+
+Besides work and studies, i also like to learn more about computer sience in my own time. Beyond that i am a passoinate animator, game modder and freelancing Sound Engineer. But thats enough talk, scroll down to find out more about my experiences at IT-Högskolan, Empire at War Expanded and some peronal projects.
 
 ---
 
 # Portfolio
 
 ## IT-Högskolan :notebook:
+
+Currently a student at IT-Högskolan where i study AI, Machinelearning and Python.
+
+IT - Högskolans Webbsite: [^6]
 
 <img src="assets/Python_Text.gif" alt="Coding man" width="50%" height="20%" />
 
@@ -108,4 +114,6 @@ These are some of my personal projects, currently limited to the game series Arm
 [^4]: https://youtu.be/EkCtEK4VXV4
 
 [^5]: https://discord.gg/HBPTSKVcMr
+
+[^6]: https://www.iths.se/utbildningar/utvecklare-inom-ai-och-maskininlarning/
 
