@@ -81,7 +81,7 @@ I am an asipring Software engineer
 [lab5]:
 
 
-## Exerices :muscle:
+## Empire at War Expanded (EAWX) :muscle:
 
 | Exercies                    | Description                        |
 | ------------------------------ | ---------------------------------- |
