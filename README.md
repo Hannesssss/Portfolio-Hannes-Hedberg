@@ -43,11 +43,8 @@ IT - Högskolans Webbsite: [^6]
 
 ## Empire at War Expanded (EAWX) :star:
 
-<img src="assets/dogfight.gif" alt="Coding man" width="70%" height="40%" />
 
-[Fall of The Republic - Launch Trailer (1).webm](https://user-images.githubusercontent.com/58343310/187724848-23367712-e657-412a-972d-ad95734313b6.webm) 
-
-Link to trailer on youtube [^3]
+<img src="assets/fleet.gif" alt="Coding man" width="100%" height="20%" />
 
 "Palpatine's machinations and the decay of the Republic have brought the galaxy into the most destructive war it's ever seen. The Separatist droid armies threaten to overrun the Republic and no matter who comes out on top, the course of galactic history will be altered forever..."
 
@@ -56,6 +53,10 @@ One of the larger projects im apart of is large mod for Star Wars Empire at War 
 I have personally been part of the team for nearly 3 years now, and along with a team of roughly 30 modders we strive to mod Empire at war to make the best star wars strategy game on the market. Personally i have been a Sound Engineer for the team, wheter it being brand new sounds and voices or importing something from a show or movie i have contributed with thousands of sound files for the mods. Other than that i also worked closley with one of the teams animators to create the trailer you can see above, i also have my own cinematic currently under production but as of yet far from being finished.
 
 EAWX has a large community with over 10 000+ members on our discord, intrested to see for yourself? Here is an invite link just for you: [^5]
+
+[Fall of The Republic - Launch Trailer (1).webm](https://user-images.githubusercontent.com/58343310/187724848-23367712-e657-412a-972d-ad95734313b6.webm) 
+
+Link to trailer on youtube [^3]
 
 
 | Empire at War Expanded (EAWX)                    | Description                        |
@@ -69,7 +70,7 @@ EAWX has a large community with over 10 000+ members on our discord, intrested t
 [Ex2]: https://steamcommunity.com/sharedfiles/filedetails/?id=1976399102
 [Ex3]: https://steamcommunity.com/sharedfiles/filedetails/?id=1125571106
 
-<img src="assets/attack.gif" alt="Coding man" width="70%" height="40%" />
+<img src="assets/cis.gif" alt="Coding man" width="100%" height="30%" />
 
 *This is a clip from one of my own renders, see the full clip on YouTube* [^4]
 
@@ -87,6 +88,8 @@ These are some of my personal projects, currently limited to the game series Arm
 
 [lab1]: https://steamcommunity.com/sharedfiles/filedetails/?id=827584830
 [lab2]: https://steamcommunity.com/sharedfiles/filedetails/?id=1870770453
+
+<img src="assets/attack.gif" alt="Coding man" width="70%" height="40%" />
 
 
 ## Contact me :email:
