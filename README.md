@@ -43,7 +43,7 @@ IT - Högskolans Webbsite: [^6]
 
 ## Empire at War Expanded (EAWX) :star:
 
-
+<img src="assets/dogfight.gif" alt="Coding man" width="70%" height="40%" />
 
 [Fall of The Republic - Launch Trailer (1).webm](https://user-images.githubusercontent.com/58343310/187724848-23367712-e657-412a-972d-ad95734313b6.webm) 
 
