@@ -24,8 +24,8 @@ IT - Högskolans Webbsite: [^6]
 
 | Courses                   | Description                        |
 | ------------------------------ | ---------------------------------- |
-| [Python Programming][course1] | First course in Python, creating a solid ground and understanding of the language.                   |
-| [tba][course2]                | TBA                                   |
+| [Intro till AI][course1] | An introduction to AI, with a report on machinelearning                   |
+| [Python Programming][course2] | First course in Python, creating a solid ground and understanding of the language.                                   |
 | [tba][course3]                | TBA                                |
 | [tba][course4]                | TBA                                |
 
@@ -33,8 +33,8 @@ IT - Högskolans Webbsite: [^6]
 
 <!-- Comment -->
 
-[course1]: https://github.com/Hannesssss/Python-Programming-Hannes-Hedberg 
-[course2]: https://github.com/Hannesssss
+[course1]: https://github.com/Hannesssss/Intro-till-AI-Hannes-Hedberg 
+[course2]: https://github.com/Hannesssss/Python-Programming-Hannes-Hedberg
 [course3]: https://github.com/Hannesssss
 [course4]: https://github.com/Hannesssss
 
