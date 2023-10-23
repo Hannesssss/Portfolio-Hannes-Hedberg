@@ -25,21 +25,6 @@ Hello, I'm Hannes Hedberg, a student at IT-Högskolan, passionate about AI and M
 
 I'm currently a student at IT-Högskolan, focusing on AI and Machine Learning. Here's an overview of my coursework:
 
-
-| Course                                   | Short Description                                             |
-| ---------------------------------------- | ------------------------------------------------------- |
-| 1. [Intro to AI][course1]                   | AI, Machine Learning, Report |
-| 2. [Python Programming][course2]            | Python, Foundation |
-| 3. [Data Processing][course3]               | Data Mining, Data Cleaning, Pandas, Security |
-| 4. Linear Algebra             | Vectors, Matrices, Linearity |
-| 5. [Statistical Methods][course5]            | Probability, Hypothesis Testing, NumPy |
-| 6. [Machine Learning][course6]              | AI, Predictive Modeling, Scikit-learn, Visualization |
-| 7. [Databaser][course7]                     | Database Administration, SQL |
-| 8. [Data Engineering][course8]              | Real-world, Web Scraping, Agile, Cloud, React, Discord Bot, OpenAI, ChatGBT, AI Prompting |
-| 9. Internship 1 (LIA 1)            | Bilvision, Internship, Automation, Data bases, NLP, NER, Car Brands, Machinelearning, Model training, 32 Million vehicles |
-| 10. [Deep Machine Learning][course10]       | Deep Learning, Advanced ML |
-| 11. Internship 2 (LIA 2)          | Internship, Project |
-
 #### Full Course Descriptions:
 
 <details>
@@ -91,6 +76,22 @@ I'm currently a student at IT-Högskolan, focusing on AI and Machine Learning. H
 
 </details>
 
+#### TL;DR
+
+| Course                                   | Short Description                                             |
+| ---------------------------------------- | ------------------------------------------------------- |
+| 1. [Intro to AI][course1]                   | AI, Machine Learning, Report |
+| 2. [Python Programming][course2]            | Python, Foundation |
+| 3. [Data Processing][course3]               | Data Mining, Data Cleaning, Pandas, Security |
+| 4. Linear Algebra             | Vectors, Matrices, Linearity |
+| 5. [Statistical Methods][course5]            | Probability, Hypothesis Testing, NumPy |
+| 6. [Machine Learning][course6]              | AI, Predictive Modeling, Scikit-learn, Visualization |
+| 7. [Databaser][course7]                     | Database Administration, SQL |
+| 8. [Data Engineering][course8]              | Real-world, Web Scraping, Agile, Cloud, React, Discord Bot, OpenAI, ChatGBT, AI Prompting |
+| 9. Internship 1 (LIA 1)            | Bilvision, Internship, Automation, Data bases, NLP, NER, Car Brands, Machinelearning, Model training, 32 Million vehicles |
+| 10. [Deep Machine Learning][course10]       | Deep Learning, Advanced ML |
+| 11. Internship 2 (LIA 2)          | Internship, Project |
+
 <img src="assets/Python_Text.gif" alt="Python Text"/>
 
 [course1]: https://github.com/Hannesssss/Intro-till-AI-Hannes-Hedberg 
@@ -110,19 +111,7 @@ I'm currently a student at IT-Högskolan, focusing on AI and Machine Learning. H
 ## Bilvision - First Internship &#128663;
 <img src="assets/bilvision.png" alt="Bilvision Banner"/>
 
-[Bilvisions Webbsite](https://bilvision.se/)
-#### TL;DR (Too Long; Didn't Read)
-
-| **Aspect**                | **Description**                                                                                           |
-| ------------------------- | --------------------------------------------------------------------------------------------------------- |
-| **Role**                  | Data Scientist at Bilvision for 8 weeks.                                                                |
-| **Challenge**             | Automating time-consuming tasks in managing a 32-million vehicle database using Microsoft Database Manager. |
-| **Solution**              | Developed and trained Natural Language Processing (NLP) models for Named Entity Recognition (NER) to identify car brands and models within text.
-| **Tools**                 | Utilized Levenshtein distance for spelling correction and a Python package for sound analysis. |
-| **User Involvement**      | In case of discrepancies, users selected corrections, and their inputs were stored as references. |
-| **Active Learning**       | Implemented models' ability to create their training data and self-train when encountering unfamiliar brands/models. |
-
-### Bilvision - Internship Full Description 
+### Internship Full Description 
 
 <details>
   <summary><b>Click to Expand</b></summary>
@@ -136,6 +125,19 @@ When the various spelling models reached a consensus, the result was automatical
 In such cases, users were prompted to enter the car brand or model mentioned within a given sentence. The input was then incorporated into randomly generated training data for the models to learn from. This dynamic approach ensures that the models can identify car brands and models in the future, even if new ones are introduced into the system.
 
 </details>
+
+#### TL;DR
+
+| **Aspect**                | **Description**                                                                                           |
+| ------------------------- | --------------------------------------------------------------------------------------------------------- |
+| **Role**                  | Data Scientist at Bilvision for 8 weeks.                                                                |
+| **Challenge**             | Automating time-consuming tasks in managing a 32-million vehicle database using Microsoft Database Manager. |
+| **Solution**              | Developed and trained Natural Language Processing (NLP) models for Named Entity Recognition (NER) to identify car brands and models within text.
+| **Tools**                 | Utilized Levenshtein distance for spelling correction and a Python package for sound analysis. |
+| **User Involvement**      | In case of discrepancies, users selected corrections, and their inputs were stored as references. |
+| **Active Learning**       | Implemented models' ability to create their training data and self-train when encountering unfamiliar brands/models. |
+
+[Bilvisions Webbsite](https://bilvision.se/)
 
 ---
 
