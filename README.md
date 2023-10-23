@@ -34,7 +34,7 @@ I'm currently a student at IT-Högskolan, focusing on AI and Machine Learning. H
 | 6. [Machine Learning][course6]              | AI, Predictive Modeling, Scikit-learn, Visualization |
 | 7. [Databaser][course7]                     | Database Administration, SQL |
 | 8. [Data Engineering][course8]              | Real-world, Web Scraping, Agile, Cloud, React |
-| 9. [LIA1 (Internship1)][course9]            | Internship, NLP, Car Brands, 32 Million Entries |
+| 9. [LIA1 (Internship1)][course9]            | Internship, NLP - NER, Car Brands, Machinelearning, Model training, 32 Million vehicles |
 | 10. [Deep Machine Learning][course10]       | Deep Learning, Advanced ML |
 | 11. [LIA2 (Internship2)][course11]           | Internship, Project |
 
