@@ -1,5 +1,7 @@
 # Hannes Hedberg's Portfolio :computer:
 
+# Work In Progress - Expected to be finished 23-10-2023 16.00
+
 Welcome to my GitHub portfolio! I'm Hannes Hedberg, a student specializing in AI and Machine Learning at IT-Högskolan. This repository showcases my journey, encompassing various projects and experiences. Explore the sections below to learn more about my work.
 
 ## About Me :speaker:
