@@ -107,7 +107,7 @@ I'm currently a student at IT-Högskolan, focusing on AI and Machine Learning. H
 
 -----
 
-## Bilvision - Internship 1 &#128663;
+## Bilvision - First Internship &#128663;
 <img src="assets/bilvision.png" alt="Bilvision Banner"/>
 
 [Bilvisions Webbsite](https://bilvision.se/)
