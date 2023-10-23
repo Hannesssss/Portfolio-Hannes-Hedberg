@@ -22,11 +22,11 @@ I'm currently a student at IT-Högskolan, focusing on AI and Machine Learning. H
 | ---------------------------------------- | ------------------------------------------------------- |
 | [Intro to AI][course1]                   | Introduction to AI with a machine learning report.    |
 | [Python Programming][course2]            | The first Python course, establishing a solid foundation. |
-| [Data Processing][course3]               | "Data Processing (Databehandling) is a foundational course that covers techniques for data exploration and handling, focusing on data mining, data combination, aggregation, missing data management, dimension reduction, and data cleaning using the Python Pandas library, with an emphasis on GDPR compliance and data security."                               |
+| [Data Processing][course3]               | Data Processing is a foundational course that covers techniques for data exploration and handling, focusing on data mining, data combination, aggregation, missing data management, dimension reduction, and data cleaning using the Python Pandas library, with an emphasis on GDPR compliance and data security.                               |
 | [Linjär Algebra][course4]                | [Description to be added]                               |
 | [Statistika Metoder][course5]            | [Description to be added]                               |
 | [Maskinlärning (Machine Learning)][course6] | [Description to be added]                               |
-| [Databaser (Databases)][course7]        | [Description to be added]                               |
+| [Databaser][course7]        | [Description to be added]                               |
 | [Data Engineering][course8]             | [Description to be added]                               |
 | [LIA1][course9]                          | [Description to be added]                               |
 | [Deep Machine Learning][course10]       | [Description to be added]                               |
