@@ -104,7 +104,38 @@ I'm currently a student at IT-Högskolan, focusing on AI and Machine Learning. H
 
 -----
 
-# Bilvision - Internship 1
+## Bilvision - Internship 1
+
+*WIP*
+
+-----
+
+## Harvard - CS50
+
+*WIP*
+
+----- 
+
+## Personal Projects :flashlight:
+
+These are some of my personal projects, currently limited to the game series Arma III, which is a military simulator. With roughly 30 000 subscribers on steam workshop.
+
+| Mods                    | Description                        |
+| ------------------------------ | ---------------------------------- |
+| [Ultimate Music Collection (UMC)][Project1]                | Gives mission creators and players a large amount of music to set the mood for stealthy operation, action packed combat or relaxing ambiance.                  |
+| [Ultimate Flag Collection (UFC) ][Project2]                | Provides uniforms with tons of different flag patches and emblems to help players represent their countires and nationalites on the battlefield.                               |
+| [Hannes Audio Renaming Tool][Project3]                     | Released, simple tool to automatically rename .wav & .mp3 files. where you can select naming patterns and extensions. Used in game development.                              |
+
+
+
+
+[Project1]: https://steamcommunity.com/sharedfiles/filedetails/?id=827584830
+[Project2]: https://steamcommunity.com/sharedfiles/filedetails/?id=1870770453
+[Project3]: https://github.com/Hannesssss/Hannes-Coding-Projects/releases/tag/v1.0.1
+
+<img src="assets/attack.gif" alt="Coding man" width="70%" height="40%" />
+
+-----
 
 ## Empire at War Expanded (EAWX) :star:
 
@@ -139,23 +170,13 @@ Link to trailer on youtube [^3]
 
 *This is a clip from one of my own renders, see the full clip on YouTube* [^4]
 
-## Personal Projects :flashlight:
+-----
 
-These are some of my personal projects, currently limited to the game series Arma III, which is a military simulator. With roughly 30 000 subscribers on steam workshop.
+## Beaver City - Emergency 2020 Mod
 
-| Mods                    | Description                        |
-| ------------------------------ | ---------------------------------- |
-| [Ultimate Music Collection (UMC)][lab1]                | Gives mission creators and players a large amount of music to set the mood for stealthy operation, action packed combat or relaxing ambiance.                  |
-| [Ultimate Flag Collection (UFC) ][lab2]                | Provides uniforms with tons of different flag patches and emblems to help players represent their countires and nationalites on the battlefield.                               |
+*wip*
 
-
-
-
-[lab1]: https://steamcommunity.com/sharedfiles/filedetails/?id=827584830
-[lab2]: https://steamcommunity.com/sharedfiles/filedetails/?id=1870770453
-
-<img src="assets/attack.gif" alt="Coding man" width="70%" height="40%" />
-
+-----
 
 ## Contact me :email:
     https://www.linkedin.com/in/hannes-hedberg-63854719b/
