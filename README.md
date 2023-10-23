@@ -38,54 +38,57 @@ I'm currently a student at IT-Högskolan, focusing on AI and Machine Learning. H
 | 10. [Deep Machine Learning][course10]       | Deep Learning, Advanced ML. [Full Description](#deep-machine-learning-description)|
 | 11. [LIA2 (Internship2)][course11]           | Internship, Project. [Full Description](#lia2-internship2-description)|
 
-
-Certainly, here's the list with the full descriptions from the description column you provided:
-
 **Course List:**
 
-1. [Intro to AI][course1]
-   - TLDR: AI, Machine Learning, Report
-   - Description: Introduction to AI with a machine learning report.
+<details>
+  <summary><b>**Course Descriptions (Click to Expand)**</b></summary>
 
-2. [Python Programming][course2]
-   - TLDR: Python, Foundation
-   - Description: First Python course, establishing a solid foundation.
+  **1. [Intro to AI][course1]**
+  - *TLDR:* AI, Machine Learning, Report
+  - *Description:* Introduction to AI with a machine learning report.
 
-3. [Data Processing][course3]
-   - TLDR: Data Mining, Data Cleaning, Pandas, Security
-   - Description: Foundational course that covers techniques for data exploration and handling, focusing on data mining, data combination, aggregation, missing data management, dimension reduction, and data cleaning using the Python Pandas library, with an emphasis on GDPR compliance and data security.
+  **2. [Python Programming][course2]**
+  - *TLDR:* Python, Foundation
+  - *Description:* First Python course, establishing a solid foundation.
 
-4. [Linear Algebra][course4]
-   - TLDR: Vectors, Matrices, Linearity
-   - Description: Foundational course that explores fundamental concepts such as vectors, scalar products, vector products, equations of lines and planes, matrix operations, and linearity, serving as a crucial mathematical basis for understanding many machine learning algorithms.
+  **3. [Data Processing][course3]**
+  - *TLDR:* Data Mining, Data Cleaning, Pandas, Security
+  - *Description:* Foundational course that covers techniques for data exploration and handling, focusing on data mining, data combination, aggregation, missing data management, dimension reduction, and data cleaning using the Python Pandas library, with an emphasis on GDPR compliance and data security.
 
-5. [Statistical Methods][course5]
-   - TLDR: Probability, Hypothesis Testing, NumPy
-   - Description: This course covers probability theory, fundamental statistical concepts, and their application in machine learning. The course includes discussions on common distributions, correlation, covariance, expected value, estimation, and hypothesis testing, along with practical exercises using Python and NumPy.
+  **4. [Linear Algebra][course4]**
+  - *TLDR:* Vectors, Matrices, Linearity
+  - *Description:* Foundational course that explores fundamental concepts such as vectors, scalar products, vector products, equations of lines and planes, matrix operations, and linearity, serving as a crucial mathematical basis for understanding many machine learning algorithms.
 
-6. [Machine Learning][course6]
-   - TLDR: AI, Predictive Modeling, Scikit-learn, Visualization
-   - Description: Introduction to machine learning and AI, covering key concepts. Discussions on predictive modeling, data clustering, self-learning decision trees, and the foundation for artificial neural networks. Provided a foundational understanding of machine learning models and techniques for data handling, training, and evaluation. Technologies and tools used in the course include Visual Studio Code, Git/GitHub, Python, NumPy, Pandas, and various visualization tools like Matplotlib, Seaborn, and Plotly.
+  **5. [Statistical Methods][course5]**
+  - *TLDR:* Probability, Hypothesis Testing, NumPy
+  - *Description:* This course covers probability theory, fundamental statistical concepts, and their application in machine learning. The course includes discussions on common distributions, correlation, covariance, expected value, estimation, and hypothesis testing, along with practical exercises using Python and NumPy.
 
-7. [Databaser][course7]
-   - TLDR: Database Administration, SQL, SQL Query Language
-   - Description: This course focuses on database communication and administration, with an emphasis on SQL query language. It covers fundamental concepts of relations databases, information structuring, transactions, storage and access methods. Additionally, the course briefly introduces other database types such as NoSQL and tools like Elasticsearch. In the course we create and execute efficient SQL queries for data analysis, as well as configuring and applying database connections using both database management tools and Python. It provides knowledge and competence in databases and SQL to connect, retrieve, and analyze data stored in relational databases.
+  **6. [Machine Learning][course6]**
+  - *TLDR:* AI, Predictive Modeling, Scikit-learn, Visualization
+  - *Description:* Introduction to machine learning and AI, covering key concepts. Discussions on predictive modeling, data clustering, self-learning decision trees, and the foundation for artificial neural networks. Provided a foundational understanding of machine learning models and techniques for data handling, training, and evaluation. Technologies and tools used in the course include Visual Studio Code, Git/GitHub, Python, NumPy, Pandas, and various visualization tools like Matplotlib, Seaborn, and Plotly.
 
-8. [Data Engineering][course8]
-   - TLDR: Real-world, Web Scraping, Agile, Cloud, React
-   - Description: This course focuses on data engineering with a strong emphasis on practical applications in real-world machine learning scenarios. Collaborative group projects simulate real-life situations involving stakeholders and CEOs. Students learn how to deploy AI models using OpenAI's API. We conduct web scraping of various AI-related articles from the internet, format, summarize, and translate the content into multiple languages. This data is then integrated into a Discord platform, where users can interact with a bot we've developed to receive live articles. All data is stored in a database, and we utilize queries to extract necessary information in the cloud, employing platforms like AWS, Azure, or Google Cloud. The course introduces agile project management methodologies such as Scrum and Kanban. Additionally, students gain practical experience in technologies like React for web development, enhancing their skills in creating and deploying AI solutions.
+  **7. [Databaser][course7]**
+  - *TLDR:* Database Administration, SQL, SQL Query Language
+  - *Description:* This course focuses on database communication and administration, with an emphasis on SQL query language. It covers fundamental concepts of relations databases, information structuring, transactions, storage and access methods. Additionally, the course briefly introduces other database types such as NoSQL and tools like Elasticsearch. In the course we create and execute efficient SQL queries for data analysis, as well as configuring and applying database connections using both database management tools and Python. It provides knowledge and competence in databases and SQL to connect, retrieve, and analyze data stored in relational databases.
 
-9. [LIA1 (Internship1)][course9]
-   - TLDR: Internship, NLP, Car Brands, 32 Million Entries
-   - Description: I completed an 8-week internship at Bilvision as a Data Scientist, where I focused on developing a Natural Language Processing (NLP) model with an emphasis on Named Entity Recognition (NER). The goal was to detect car brands and models within a database containing over 32 million entries. For more details, please refer to [#Bilvision - Internship 1].
+  **8. [Data Engineering][course8]**
+  - *TLDR:* Real-world, Web Scraping, Agile, Cloud, React
+  - *Description:* This course focuses on data engineering with a strong emphasis on practical applications in real-world machine learning scenarios. Collaborative group projects simulate real-life situations involving stakeholders and CEOs. Students learn how to deploy AI models using OpenAI's API. We conduct web scraping of various AI-related articles from the internet, format, summarize, and translate the content into multiple languages. This data is then integrated into a Discord platform, where users can interact with a bot we've developed to receive live articles. All data is stored in a database, and we utilize queries to extract necessary information in the cloud, employing platforms like AWS, Azure, or Google Cloud. The course introduces agile project management methodologies such as Scrum and Kanban. Additionally, students gain practical experience in technologies like React for web development, enhancing their skills in creating and deploying AI solutions.
 
-10. [Deep Machine Learning][course10]
-    - TLDR: Deep Learning, Advanced ML
-    - Description: [Description to be added]
+  **9. [LIA1 (Internship1)][course9]**
+  - *TLDR:* Internship, NLP, Car Brands, 32 Million Entries
+  - *Description:* I completed an 8-week internship at Bilvision as a Data Scientist, where I focused on developing a Natural Language Processing (NLP) model with an emphasis on Named Entity Recognition (NER). The goal was to detect car brands and models within a database containing over 32 million entries. For more details, please refer to [#Bilvision - Internship 1].
 
-11. [LIA2 (Internship2)][course11]
-    - TLDR: Internship, Project
-    - Description: [Description to be added]
+  **10. [Deep Machine Learning][course10]**
+  - *TLDR:* Deep Learning, Advanced ML
+  - *Description:* [Description to be added]
+
+  **11. [LIA2 (Internship2)][course11]**
+  - *TLDR:* Internship, Project
+  - *Description:* [Description to be added]
+
+</details>
+
 
 ---
 
