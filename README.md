@@ -22,19 +22,36 @@ IT - Högskolans Webbsite: [^6]
 
 I'm currently a student at IT-Högskolan, focusing on AI and Machine Learning. Here's an overview of my coursework:
 
-| Course                                   | Description                                             |
-| ---------------------------------------- | ------------------------------------------------------- |
-| [Intro to AI][course1]                   | Introduction to AI with a machine learning report.    |
-| [Python Programming][course2]            | The first Python course, establishing a solid foundation. |
-| [Data Processing][course3]               | Data Processing is a foundational course that covers techniques for data exploration and handling, focusing on data mining, data combination, aggregation, missing data management, dimension reduction, and data cleaning using the Python Pandas library, with an emphasis on GDPR compliance and data security.                               |
-| [Linjär Algebra][course4]                | [Description to be added]                               |
-| [Statistika Metoder][course5]            | [Description to be added]                               |
-| [Maskinlärning (Machine Learning)][course6] | [Description to be added]                               |
-| [Databaser][course7]        | [Description to be added]                               |
-| [Data Engineering][course8]             | [Description to be added]                               |
-| [LIA1][course9]                          | [Description to be added]                               |
-| [Deep Machine Learning][course10]       | [Description to be added]                               |
-| [LIA2][course11]                         | [Description to be added]                               |
+| Course                                   | Description                                   |
+| ---------------------------------------- | --------------------------------------------- |
+| [Intro to AI][course1]                   | [Description1]                                |
+| [Python Programming][course2]            | [Description2]                                |
+| [Data Processing][course3]               | [Description3]                                |
+| [Linear Algebra][course4]                | [Description4]                                |
+| [Statistika Metoder][course5]            | [Description5]                                |
+| [Maskinlärning (Machine Learning)][course6] | [Description6]                               |
+| [Databaser][course7]                     | [Description7]                               |
+| [Data Engineering][course8]              | [Description8]                               |
+| [LIA1][course9]                          | [Description9]                               |
+| [Deep Machine Learning][course10]       | [Description10]                              |
+| [LIA2][course11]                         | [Description11]                              |
+
+
+
+## Descriptions
+
+[Description1]: Introduction to AI with a machine learning report.
+[Description2]: The first Python course, establishing a solid foundation.
+[Description3]: Data Processing is a foundational course that covers techniques for data exploration and handling, focusing on data mining, data combination, aggregation, missing data management, dimension reduction, and data cleaning using the Python Pandas library, with an emphasis on GDPR compliance and data security.
+[Description4]: Linear Algebra is a foundational course that explores fundamental concepts such as vectors, scalar products, vector products, equations of lines and planes, matrix operations, and linearity, serving as a crucial mathematical basis for understanding many machine learning algorithms.
+[Description5]: [Your description for course 5]
+[Description6]: [Your description for course 6]
+[Description7]: [Your description for course 7]
+[Description8]: [Your description for course 8]
+[Description9]: [Your description for course 9]
+[Description10]: [Your description for course 10]
+[Description11]: [Your description for course 11]
+
 
 [course1]: https://github.com/Hannesssss/Intro-till-AI-Hannes-Hedberg 
 [course2]: https://github.com/Hannesssss/Python-Programming-Hannes-Hedberg
