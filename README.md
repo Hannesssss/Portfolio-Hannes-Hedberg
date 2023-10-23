@@ -74,7 +74,7 @@ I'm currently a student at IT-Högskolan, focusing on AI and Machine Learning. H
 
 </details>
 
-#### TL;DR
+#### TL;DR (Too Long, Didn't Read)
 
 | Course                                   | Short Description                                             |
 | ---------------------------------------- | ------------------------------------------------------- |
