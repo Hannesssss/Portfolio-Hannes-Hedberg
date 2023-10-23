@@ -116,10 +116,11 @@ I'm currently a student at IT-Högskolan, focusing on AI and Machine Learning. H
 - **User Involvement:** In case of discrepancies, users selected corrections, and their inputs were stored as references.
 - **Active Learning:** Implemented models' ability to create their training data and self-train when encountering unfamiliar brands/models.
 
-- - - -
+### Bilvision - Internship Full Description 
 
-### Full Internship description
-
+<details>
+  <summary><b>Click to Expand</b></summary></b>
+  
 During my 8-week tenure at Bilvision, I worked as a Data Scientist. Bilvision utilizes Microsoft Database Manager for its organizational needs. They encountered numerous time-consuming and repetitive tasks within their workflow, prompting the need for machine learning solutions to automate and expedite processes. Their database contained an extensive collection of approximately 32 million vehicles. While a substantial portion of the data included accurate labels for brands and models, a significant amount of information remained concealed within unstructured text strings.
 
 To address this challenge, I developed and trained a model using Natural Language Processing (NLP), specifically focusing on Named Entity Recognition (NER). I created two distinct models; one was designed to identify car brands mentioned in text, and the other was responsible for locating references to car models. The results of these models were stored in separate columns for further processing. Additionally, I implemented an Auto-spelling program, which incorporated the Levenshtein distance algorithm to determine the closest possible matches for misspelled words. This spelling verification process was further enhanced by utilizing a Python package for sound analysis. The package could vocalize words and compare the pronunciation to known correct forms.
@@ -127,6 +128,8 @@ To address this challenge, I developed and trained a model using Natural Languag
 When the various spelling models reached a consensus, the result was automatically accepted. In cases where discrepancies arose among the models, the system prompted the user to select one of the suggested corrections or provide a custom input. User-generated inputs were stored as reference data for subsequent spell checks. Furthermore, I integrated Active Learning techniques into the models' training process. This allowed the models to create their own training data and retrain themselves when encountering previously unseen car brands or models.
 
 In such cases, users were prompted to enter the car brand or model mentioned within a given sentence. The input was then incorporated into randomly generated training data for the models to learn from. This dynamic approach ensures that the models can identify car brands and models in the future, even if new ones are introduced into the system.
+
+</details>
 
 ---
 
