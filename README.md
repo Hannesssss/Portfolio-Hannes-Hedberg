@@ -26,7 +26,7 @@ I'm currently a student at IT-Högskolan, focusing on AI and Machine Learning. H
 
 | Course                                   | TLDR                                                  | Description                                             |
 | ---------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------- |
-| [Intro to AI][course1]                   | Introduction                   | Introduction to AI with a machine learning report.     |
+| 1. [Intro to AI][course1]                   | Introduction                   | Introduction to AI with a machine learning report.     |
 | [Python Programming][course2]            | Python, Foundation                                    | The first Python course, establishing a solid foundation. |
 | [Data Processing][course3]               | Data Mining, Data Cleaning, Pandas, GDPR, Security     | Foundational course that covers techniques for data exploration and handling, focusing on data mining, data combination, aggregation, missing data management, dimension reduction, and data cleaning using the Python Pandas library, with an emphasis on GDPR compliance and data security.|
 | [Linear Algebra][course4]                | Vectors, Matrices, Linearity                          | Foundational course that explores fundamental concepts such as vectors, scalar products, vector products, equations of lines and planes, matrix operations, and linearity, serving as a crucial mathematical basis for understanding many machine learning algorithms.|
