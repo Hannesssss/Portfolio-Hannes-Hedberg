@@ -106,7 +106,7 @@ I'm currently a student at IT-Högskolan, focusing on AI and Machine Learning. H
 
 ## Bilvision - Internship 1 &#128663;
 
-### TL;DR (Too Long; Didn't Read)
+#### TL;DR (Too Long; Didn't Read)
 
 - **Role:** Data Scientist at Bilvision for 8 weeks.
 - **Challenge:** Bilvision utilized Microsoft Database Manager but needed automation for time-consuming tasks in managing their database of 32 million vehicles.
@@ -116,9 +116,9 @@ I'm currently a student at IT-Högskolan, focusing on AI and Machine Learning. H
 - **User Involvement:** In case of discrepancies, users selected corrections, and their inputs were stored as references.
 - **Active Learning:** Implemented models' ability to create their training data and self-train when encountering unfamiliar brands/models.
 
----
+- - - -
 
-This concise version provides a quick overview of your role, the challenge you addressed, the solution you implemented, key tools used, and the user involvement and active learning elements.
+### Full Internship description
 
 During my 8-week tenure at Bilvision, I worked as a Data Scientist. Bilvision utilizes Microsoft Database Manager for its organizational needs. They encountered numerous time-consuming and repetitive tasks within their workflow, prompting the need for machine learning solutions to automate and expedite processes. Their database contained an extensive collection of approximately 32 million vehicles. While a substantial portion of the data included accurate labels for brands and models, a significant amount of information remained concealed within unstructured text strings.
 
@@ -129,10 +129,6 @@ When the various spelling models reached a consensus, the result was automatical
 In such cases, users were prompted to enter the car brand or model mentioned within a given sentence. The input was then incorporated into randomly generated training data for the models to learn from. This dynamic approach ensures that the models can identify car brands and models in the future, even if new ones are introduced into the system.
 
 ---
-
-This revised version is more organized, addresses spelling and grammar issues, and presents your accomplishments during the internship in a clearer manner.
-
------
 
 ## Harvard - CS50 :school:
 
