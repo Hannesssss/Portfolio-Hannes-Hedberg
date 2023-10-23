@@ -223,8 +223,6 @@ Work in Progress (WIP)
 ## Contact me :email:
 [LinkedIn Profile](https://www.linkedin.com/in/hannes-hedberg-63854719b/)
 
----
-
 [^1]: Information about [Petroglyph Games](https://www.google.com/search?rlz=1C1CHBF_svSE970SE970&sxsrf=ALiCzsbjsjSKRypuowDcggzZEyyCK9LqcQ:1661967319080&q=Petroglyph+Games&stick=H4sIAAAAAAAAAOPgE-LUz9U3MDVLLk5XAjNNSsqy87RUspOt9JPL0vWT83MLSktSi-LLMlNS89MTc1OtUlLLUnPyC1KLFrEKBKSWFOWn51QWZCi4A-WKd7Ay7mJn4mAAABb-HFdZAAAA&sa=X&ved=2ahUKEwisiLrdzvH5AhWVXvEDHeAUDGsQmxMoAXoECHwQAw&biw=2752&bih=1002&dpr=1.25)
 
 [^2]: [Star Wars Empire at War: Gold Pack on Steam](https://store.steampowered.com/app/32470/STAR_WARS_Empire_at_War__Gold_Pack/)
