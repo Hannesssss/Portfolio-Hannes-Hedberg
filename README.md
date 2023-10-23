@@ -26,17 +26,18 @@ I'm currently a student at IT-Högskolan, focusing on AI and Machine Learning. H
 
 | Course                                   | Short Description                                             |
 | ---------------------------------------- | ------------------------------------------------------- |
-| 1. [Intro to AI][course1]                   | AI, Machine Learning, Report. [Full Description](intro-to-ai-description)|
-| 2. [Python Programming][course2]            | Python, Foundation. [Full Description](#python-programming-description)|
-| 3. [Data Processing][course3]               | Data Mining, Data Cleaning, Pandas, Security. [Full Description](#data-processing-description)|
-| 4. [Linear Algebra][course4]                | Vectors, Matrices, Linearity. [Full Description](#linear-algebra-description)|
-| 5. [Statistical Methods][course5]            | Probability, Hypothesis Testing, NumPy. [Full Description](#statistical-methods-description)|
-| 6. [Machine Learning][course6]              | AI, Predictive Modeling, Scikit-learn, Visualization. [Full Description](#machine-learning-description)|
-| 7. [Databaser][course7]                     | Database Administration, SQL. [Full Description](#databaser-description)|
-| 8. [Data Engineering][course8]              | Real-world, Web Scraping, Agile, Cloud, React. [Full Description](#data-engineering-description)|
-| 9. [LIA1 (Internship1)][course9]            | Internship, NLP, Car Brands, 32 Million Entries. [Full Description](#lia1-internship1-description)|
-| 10. [Deep Machine Learning][course10]       | Deep Learning, Advanced ML. [Full Description](#deep-machine-learning-description)|
-| 11. [LIA2 (Internship2)][course11]           | Internship, Project. [Full Description](#lia2-internship2-description)|
+| 1. [Intro to AI][course1]                   | AI, Machine Learning, Report |
+| 2. [Python Programming][course2]            | Python, Foundation |
+| 3. [Data Processing][course3]               | Data Mining, Data Cleaning, Pandas, Security |
+| 4. [Linear Algebra][course4]                | Vectors, Matrices, Linearity |
+| 5. [Statistical Methods][course5]            | Probability, Hypothesis Testing, NumPy |
+| 6. [Machine Learning][course6]              | AI, Predictive Modeling, Scikit-learn, Visualization |
+| 7. [Databaser][course7]                     | Database Administration, SQL |
+| 8. [Data Engineering][course8]              | Real-world, Web Scraping, Agile, Cloud, React |
+| 9. [LIA1 (Internship1)][course9]            | Internship, NLP, Car Brands, 32 Million Entries |
+| 10. [Deep Machine Learning][course10]       | Deep Learning, Advanced ML |
+| 11. [LIA2 (Internship2)][course11]           | Internship, Project |
+
 
 #### Full Course Descriptions List:
 
