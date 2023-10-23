@@ -141,7 +141,7 @@ CS50, offered by Harvard University, is a widely renowned and comprehensive intr
 ### My CS50 Journey
 I'm currently working my way towards my first CS50 certificate, embarking on a journey that begins with the foundations of Computer Science. Then continue with Data Science and AI. In total, these courses encompass a year's worth of studies.
 
-#### Key Highlights:
+#### Key Highlights
 
 | **Aspect**                     | **Description**                                                                                                     |
 | ----------------------------- | --------------------------------------------------------------------------------------------------------------- |
