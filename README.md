@@ -38,10 +38,10 @@ I'm currently a student at IT-Högskolan, focusing on AI and Machine Learning. H
 | 10. [Deep Machine Learning][course10]       | Deep Learning, Advanced ML. [Full Description](#deep-machine-learning-description)|
 | 11. [LIA2 (Internship2)][course11]           | Internship, Project. [Full Description](#lia2-internship2-description)|
 
-**Full Course Descriptions List:**
+#### Full Course Descriptions List:
 
 <details>
-  <summary><b>**Click to Expand**</b></summary>
+  <summary><b>Click to Expand</b></summary>
 
   **1. [Intro to AI][course1]**
   - *TLDR:* AI, Machine Learning, Report
