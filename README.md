@@ -135,9 +135,27 @@ In such cases, users were prompted to enter the car brand or model mentioned wit
 
 ## Harvard - CS50 :school:
 
-*WIP*
+**CS50, offered by Harvard University, is a widely renowned and comprehensive introduction to the field of computer science.**
 
------ 
+**Key Highlights:**
+
+- **Broad Scope:** CS50 covers a wide range of topics, from the fundamentals of programming and problem-solving to more advanced concepts, making it suitable for both beginners and those with prior experience.
+
+- **Problem-Solving Skills:** The course emphasizes critical thinking and problem-solving, ensuring that students develop analytical skills that are essential in computer science.
+
+- **Harvard Quality:** As a Harvard University offering, CS50 upholds the highest standards of education and is instructed by experienced faculty members.
+
+- **Online Accessibility:** The course is available online, making it accessible to a global audience and offering flexibility in learning.
+
+- **Prestigious Certification:** Upon completion, students receive a Harvard University certificate, a valuable addition to one's academic and professional portfolio.
+
+- **Community Engagement:** CS50 has a vibrant community, with opportunities for collaboration, support, and sharing knowledge with fellow learners.
+
+- **Diverse Learning Resources:** The course offers a range of resources, including video lectures, problem sets, quizzes, and a robust support system.
+
+CS50 equips students with a strong foundation in computer science and programming, providing a versatile skill set applicable to various industries and career paths.
+
+---
 
 ## Personal Projects :flashlight:
 
