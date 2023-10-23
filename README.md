@@ -118,7 +118,7 @@ I'm currently a student at IT-Högskolan, focusing on AI and Machine Learning. H
 
 ## Personal Projects :flashlight:
 
-These are some of my personal projects, currently limited to the game series Arma III, which is a military simulator. With roughly 30 000 subscribers on steam workshop.
+These are some of my personal projects, including mods for the game series Arma III, which is a military simulator. With roughly 30 000 subscribers on steam workshop. Aswell as some tools for audio editing I made to automate some of my modding work.
 
 | Mods                    | Description                        |
 | ------------------------------ | ---------------------------------- |
