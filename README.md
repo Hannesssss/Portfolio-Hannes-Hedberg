@@ -9,9 +9,8 @@ Hello, I'm Hannes Hedberg, a student at IT-Högskolan, passionate about AI and M
 - IT-Högskolan
 - Internship at Bilvision
 - CS50 at Harvard
+- Personal projects, Tools and Arma 3 Modding
 - Modding in Empire at War Expanded (EAWX)
-- Modding in Arma 3
-- Personal projects
 
 ##### Contact Me :email:
 [Hannes LinkedIn Profile](https://www.linkedin.com/in/hannes-hedberg-63854719b/)
