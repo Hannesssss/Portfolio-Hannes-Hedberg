@@ -12,7 +12,7 @@ Hello, I'm Hannes Hedberg, a student at IT-Högskolan, passionate about AI and M
 - Modding in Empire at War Expanded (EAWX)
 - Personal projects
 
-##### Contact Me
+##### Contact Me :email:
 [Hannes LinkedIn Profile](https://www.linkedin.com/in/hannes-hedberg-63854719b/)
 
 ---
