@@ -33,8 +33,8 @@ I'm currently a student at IT-Högskolan, focusing on AI and Machine Learning. H
 | 5. [Statistical Methods][course5]            | Probability, Hypothesis Testing, NumPy |
 | 6. [Machine Learning][course6]              | AI, Predictive Modeling, Scikit-learn, Visualization |
 | 7. [Databaser][course7]                     | Database Administration, SQL |
-| 8. [Data Engineering][course8]              | Real-world, Web Scraping, Agile, Cloud, React, Discord Bot, OpenAI, ChatGBT |
-| 9. Internship 1 (LIA 1)            | Bilvision, Internship, NLP, NER, Car Brands, Machinelearning, Model training, 32 Million vehicles |
+| 8. [Data Engineering][course8]              | Real-world, Web Scraping, Agile, Cloud, React, Discord Bot, OpenAI, ChatGBT, AI Prompting |
+| 9. Internship 1 (LIA 1)            | Bilvision, Internship, Automation, Data bases, NLP, NER, Car Brands, Machinelearning, Model training, 32 Million vehicles |
 | 10. [Deep Machine Learning][course10]       | Deep Learning, Advanced ML |
 | 11. Internship 2 (LIA 2)          | Internship, Project |
 
@@ -106,7 +106,18 @@ I'm currently a student at IT-Högskolan, focusing on AI and Machine Learning. H
 
 ## Bilvision - Internship 1 &#128663;
 
-*WIP*
+
+During my 8-week tenure at Bilvision, I worked as a Data Scientist. Bilvision utilizes Microsoft Database Manager for its organizational needs. They encountered numerous time-consuming and repetitive tasks within their workflow, prompting the need for machine learning solutions to automate and expedite processes. Their database contained an extensive collection of approximately 32 million vehicles. While a substantial portion of the data included accurate labels for brands and models, a significant amount of information remained concealed within unstructured text strings.
+
+To address this challenge, I developed and trained a model using Natural Language Processing (NLP), specifically focusing on Named Entity Recognition (NER). I created two distinct models; one was designed to identify car brands mentioned in text, and the other was responsible for locating references to car models. The results of these models were stored in separate columns for further processing. Additionally, I implemented an Auto-spelling program, which incorporated the Levenshtein distance algorithm to determine the closest possible matches for misspelled words. This spelling verification process was further enhanced by utilizing a Python package for sound analysis. The package could vocalize words and compare the pronunciation to known correct forms.
+
+When the various spelling models reached a consensus, the result was automatically accepted. In cases where discrepancies arose among the models, the system prompted the user to select one of the suggested corrections or provide a custom input. User-generated inputs were stored as reference data for subsequent spell checks. Furthermore, I integrated Active Learning techniques into the models' training process. This allowed the models to create their own training data and retrain themselves when encountering previously unseen car brands or models.
+
+In such cases, users were prompted to enter the car brand or model mentioned within a given sentence. The input was then incorporated into randomly generated training data for the models to learn from. This dynamic approach ensures that the models can identify car brands and models in the future, even if new ones are introduced into the system.
+
+---
+
+This revised version is more organized, addresses spelling and grammar issues, and presents your accomplishments during the internship in a clearer manner.
 
 -----
 
