@@ -137,7 +137,7 @@ In such cases, users were prompted to enter the car brand or model mentioned wit
 
 ## Harvard - CS50 :school:
 
-CS50, offered by Harvard University, is a widely renowned and comprehensive introduction to the field of computer science. This course provides students with a strong foundation in computer science and programming, regardless of their prior experience in the field.
+> CS50, offered by Harvard University, is a widely renowned and comprehensive introduction to the field of computer science. This course provides students with a strong foundation in computer science and programming, regardless of their prior experience in the field.
 
 ### My CS50 Journey
 I'm currently working my way towards my first CS50 certificate, embarking on a journey that begins with the foundations of Computer Science. Then continue with Data Science and AI. In total, these courses encompass a year's worth of studies.
