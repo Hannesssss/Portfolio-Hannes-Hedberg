@@ -212,7 +212,9 @@ EAWX has a vibrant community with over 10,000 members on our Discord[^5].
 
 *This clip is from one of my own renders; see the full clip on YouTube[^4].*
 
-
+[Ex1]: https://steamcommunity.com/sharedfiles/filedetails/?id=1125571106
+[Ex2]: https://steamcommunity.com/sharedfiles/filedetails/?id=1976399102
+[Ex3]: https://steamcommunity.com/sharedfiles/filedetails/?id=1125571106
 
 ---
 
