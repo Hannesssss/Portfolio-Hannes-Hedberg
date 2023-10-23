@@ -109,13 +109,14 @@ I'm currently a student at IT-Högskolan, focusing on AI and Machine Learning. H
 
 #### TL;DR (Too Long; Didn't Read)
 
-- **Role:** Data Scientist at Bilvision for 8 weeks.
-- **Challenge:** Bilvision utilized Microsoft Database Manager but needed automation for time-consuming tasks in managing their database of 32 million vehicles.
-  
-- **Solution:** I developed and trained Natural Language Processing (NLP) models, focusing on Named Entity Recognition (NER) to identify car brands and models hidden within text.
-- **Tools:** Used Levenshtein distance for spelling correction and a Python package for sound analysis.
-- **User Involvement:** In case of discrepancies, users selected corrections, and their inputs were stored as references.
-- **Active Learning:** Implemented models' ability to create their training data and self-train when encountering unfamiliar brands/models.
+| **Aspect**                | **Description**                                                                                           |
+| ------------------------- | --------------------------------------------------------------------------------------------------------- |
+| **Role**                  | Data Scientist at Bilvision for 8 weeks.                                                                |
+| **Challenge**             | Automating time-consuming tasks in managing a 32-million vehicle database using Microsoft Database Manager. |
+| **Solution**              | Developed and trained Natural Language Processing (NLP) models for Named Entity Recognition (NER) to identify car brands and models within text.
+| **Tools**                 | Utilized Levenshtein distance for spelling correction and a Python package for sound analysis. |
+| **User Involvement**      | In case of discrepancies, users selected corrections, and their inputs were stored as references. |
+| **Active Learning**       | Implemented models' ability to create their training data and self-train when encountering unfamiliar brands/models. |
 
 ### Bilvision - Internship Full Description 
 
