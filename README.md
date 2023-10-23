@@ -26,7 +26,7 @@ I'm currently a student at IT-Högskolan, focusing on AI and Machine Learning. H
 
 | Course                                   | Short Description                                             |
 | ---------------------------------------- | ------------------------------------------------------- |
-| 1. [Intro to AI][course1]                   | AI, Machine Learning, Report. [Full Description](#intro-to-ai-description)|
+| 1. [Intro to AI][course1]                   | AI, Machine Learning, Report. [Full Description](intro-to-ai-description)|
 | 2. [Python Programming][course2]            | Python, Foundation. [Full Description](#python-programming-description)|
 | 3. [Data Processing][course3]               | Data Mining, Data Cleaning, Pandas, Security. [Full Description](#data-processing-description)|
 | 4. [Linear Algebra][course4]                | Vectors, Matrices, Linearity. [Full Description](#linear-algebra-description)|
