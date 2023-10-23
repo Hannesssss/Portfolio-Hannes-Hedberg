@@ -34,9 +34,9 @@ I'm currently a student at IT-Högskolan, focusing on AI and Machine Learning. H
 | 6. [Machine Learning][course6]              | AI, Predictive Modeling, Scikit-learn, Visualization |
 | 7. [Databaser][course7]                     | Database Administration, SQL |
 | 8. [Data Engineering][course8]              | Real-world, Web Scraping, Agile, Cloud, React, Discord Bot, OpenAI, ChatGBT |
-| 9. Internship 1 (LIA1)            | Bilvision, Internship, NLP, NER, Car Brands, Machinelearning, Model training, 32 Million vehicles |
+| 9. Internship 1 (LIA 1)            | Bilvision, Internship, NLP, NER, Car Brands, Machinelearning, Model training, 32 Million vehicles |
 | 10. [Deep Machine Learning][course10]       | Deep Learning, Advanced ML |
-| 11. Internship 2 (LIA2)          | Internship, Project |
+| 11. Internship 2 (LIA 2)          | Internship, Project |
 
 
 #### Full Course Descriptions:
@@ -125,14 +125,14 @@ These are some of my personal projects, currently limited to the game series Arm
 | [Ultimate Music Collection (UMC)][Project1]                | Gives mission creators and players a large amount of music to set the mood for stealthy operation, action packed combat or relaxing ambiance.                  |
 | [Ultimate Flag Collection (UFC) ][Project2]                | Provides uniforms with tons of different flag patches and emblems to help players represent their countires and nationalites on the battlefield.                               |
 | [Hannes Audio Renaming Tool][Project3]                     | Released, simple tool to automatically rename .wav & .mp3 files. where you can select naming patterns and extensions. Used in game development.                              |
-
+| [Hannes Audio Cutter Tool][Project4]                       | WIP, not released yet. Goal is to automatically cut up audio files and store one long audio file as multiple short clips, cutting when the volume is low or no sound is present. |
 
 
 
 [Project1]: https://steamcommunity.com/sharedfiles/filedetails/?id=827584830
 [Project2]: https://steamcommunity.com/sharedfiles/filedetails/?id=1870770453
 [Project3]: https://github.com/Hannesssss/Hannes-Coding-Projects/releases/tag/v1.0.1
-
+[Project4]: https://github.com/Hannesssss/Hannes-Coding-Projects/releases/tag/v1.0.1
 <img src="assets/attack.gif" alt="Coding man" width="70%" height="40%" />
 
 -----
