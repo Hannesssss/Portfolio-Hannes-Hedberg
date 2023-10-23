@@ -22,6 +22,25 @@ IT - Högskolans Webbsite: [^6]
 
 I'm currently a student at IT-Högskolan, focusing on AI and Machine Learning. Here's an overview of my coursework:
 
+
+## Descriptions
+
+[Description1]: Introduction to AI with a machine learning report.
+[Description2]: The first Python course, establishing a solid foundation.
+[Description3]: Data Processing is a foundational course that covers techniques for data exploration and handling, focusing on data mining, data combination, aggregation, missing data management, dimension reduction, and data cleaning using the Python Pandas library, with an emphasis on GDPR compliance and data security.
+[Description4]: Linear Algebra is a foundational course that explores fundamental concepts such as vectors, scalar products, vector products, equations of lines and planes, matrix operations, and linearity, serving as a crucial mathematical basis for understanding many machine learning algorithms.
+[Description5]: [Your description for course 5]
+[Description6]: [Your description for course 6]
+[Description7]: [Your description for course 7]
+[Description8]: [Your description for course 8]
+[Description9]: [Your description for course 9]
+[Description10]: [Your description for course 10]
+[Description11]: [Your description for course 11]
+
+
+
+
+
 | Course                                   | Description                                   |
 | ---------------------------------------- | --------------------------------------------- |
 | [Intro to AI][course1]                   | [Description1]                                |
@@ -38,19 +57,7 @@ I'm currently a student at IT-Högskolan, focusing on AI and Machine Learning. H
 
 
 
-## Descriptions
 
-[Description1]: Introduction to AI with a machine learning report.
-[Description2]: The first Python course, establishing a solid foundation.
-[Description3]: Data Processing is a foundational course that covers techniques for data exploration and handling, focusing on data mining, data combination, aggregation, missing data management, dimension reduction, and data cleaning using the Python Pandas library, with an emphasis on GDPR compliance and data security.
-[Description4]: Linear Algebra is a foundational course that explores fundamental concepts such as vectors, scalar products, vector products, equations of lines and planes, matrix operations, and linearity, serving as a crucial mathematical basis for understanding many machine learning algorithms.
-[Description5]: [Your description for course 5]
-[Description6]: [Your description for course 6]
-[Description7]: [Your description for course 7]
-[Description8]: [Your description for course 8]
-[Description9]: [Your description for course 9]
-[Description10]: [Your description for course 10]
-[Description11]: [Your description for course 11]
 
 
 [course1]: https://github.com/Hannesssss/Intro-till-AI-Hannes-Hedberg 
