@@ -20,9 +20,9 @@ Hello, I'm Hannes Hedberg, a student at IT-Högskolan, passionate about AI and M
 
 <img src="assets/coding.gif" alt="Coding man" width="30%" height="20%" />
 
-IT - Högskolans Webbsite: [^6]
-
 I'm currently a student at IT-Högskolan, focusing on AI and Machine Learning. Here's an overview of my coursework:
+
+[IT-Högskolans Webbsite](https://www.iths.se/utbildningar/utvecklare-inom-ai-och-maskininlarning/)
 
 | Course                                   | Short Description                                             |
 | ---------------------------------------- | ------------------------------------------------------- |
@@ -39,7 +39,7 @@ I'm currently a student at IT-Högskolan, focusing on AI and Machine Learning. H
 | 11. [LIA2 (Internship2)][course11]           | Internship, Project |
 
 
-#### Full Course Descriptions List:
+#### Full Course Descriptions:
 
 <details>
   <summary><b>Click to Expand</b></summary>
@@ -171,7 +171,5 @@ These are some of my personal projects, currently limited to the game series Arm
 [^4]: https://youtu.be/EkCtEK4VXV4
 
 [^5]: https://discord.gg/HBPTSKVcMr
-
-[^6]: https://www.iths.se/utbildningar/utvecklare-inom-ai-och-maskininlarning/
 
 ---
