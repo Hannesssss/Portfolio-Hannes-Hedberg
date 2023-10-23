@@ -136,8 +136,9 @@ In such cases, users were prompted to enter the car brand or model mentioned wit
 ## Harvard - CS50 :school:
 
 **CS50, offered by Harvard University, is a widely renowned and comprehensive introduction to the field of computer science.**
+**Current Progress:** 23 % Completed.
 
-**Key Highlights:**
+#### Key Highlights:
 
 - **Broad Scope:** CS50 covers a wide range of topics, from the fundamentals of programming and problem-solving to more advanced concepts, making it suitable for both beginners and those with prior experience.
 
