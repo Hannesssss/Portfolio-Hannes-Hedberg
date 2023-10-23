@@ -40,7 +40,6 @@ I'm currently a student at IT-Högskolan, focusing on AI and Machine Learning. H
 | 10. [Deep Machine Learning][course10]       | Deep Learning, Advanced ML |
 | 11. Internship 2 (LIA 2)          | Internship, Project |
 
-
 #### Full Course Descriptions:
 
 <details>
@@ -91,6 +90,8 @@ I'm currently a student at IT-Högskolan, focusing on AI and Machine Learning. H
   - *Description:* [Description to be added]
 
 </details>
+
+<img src="assets/Python_Text.gif" alt="Python Text"/>
 
 [course1]: https://github.com/Hannesssss/Intro-till-AI-Hannes-Hedberg 
 [course2]: https://github.com/Hannesssss/Python-Programming-Hannes-Hedberg
