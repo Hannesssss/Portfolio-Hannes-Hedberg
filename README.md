@@ -166,6 +166,8 @@ CS50 equips students with a strong foundation in computer science and programmin
 
 <img src="assets/duck.jpg" alt="CS50 Duck"/>
 
+[CS50 Webbsite](https://pll.harvard.edu/course/cs50-introduction-computer-science)
+
 ---
 
 ## Personal Projects :flashlight:
