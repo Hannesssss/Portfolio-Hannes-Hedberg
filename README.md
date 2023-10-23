@@ -19,8 +19,6 @@ Hello, I'm Hannes Hedberg, a student at IT-Högskolan, passionate about AI and M
 
 ## IT-Högskolan :notebook:
 
-[IT-Högskolans Webbsite](https://www.iths.se/utbildningar/utvecklare-inom-ai-och-maskininlarning/)
-
 <img src="assets/coding.gif" alt="Coding man" width="30%" height="20%" />
 
 I'm currently a student at IT-Högskolan, focusing on AI and Machine Learning. Here's an overview of my coursework:
@@ -105,6 +103,8 @@ I'm currently a student at IT-Högskolan, focusing on AI and Machine Learning. H
 [course9]: https://github.com/Hannesssss
 [course10]: https://github.com/Hannesssss
 [course11]: https://github.com/Hannesssss
+
+[IT-Högskolans Webbsite](https://www.iths.se/utbildningar/utvecklare-inom-ai-och-maskininlarning/)
 
 -----
 
