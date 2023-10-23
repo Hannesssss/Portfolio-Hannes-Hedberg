@@ -100,7 +100,8 @@ I'm currently a student at IT-Högskolan, focusing on AI and Machine Learning. H
 [course9]: https://github.com/Hannesssss
 [course10]: https://github.com/Hannesssss
 [course11]: https://github.com/Hannesssss
----
+
+-----
 
 # Bilvision - Internship 1
 
