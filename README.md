@@ -178,61 +178,61 @@ These are some of my personal projects, including mods for the game series Arma 
 
 -----
 
+Certainly, here's the organized version:
+
+---
+
 ## Empire at War Expanded (EAWX) :star:
 
+![Empire at War Expanded](assets/fleet.gif)
 
-<img src="assets/fleet.gif" alt="Coding man" width="100%" height="20%" />
+> "Palpatine's machinations and the decay of the Republic have brought the galaxy into the most destructive war it's ever seen. The Separatist droid armies threaten to overrun the Republic, and no matter who comes out on top, the course of galactic history will be altered forever."
 
-"Palpatine's machinations and the decay of the Republic have brought the galaxy into the most destructive war it's ever seen. The Separatist droid armies threaten to overrun the Republic and no matter who comes out on top, the course of galactic history will be altered forever..."
+One of the significant projects I'm part of is a large mod for **Star Wars Empire at War**[^2] by **Petroglyph Games**[^1]. Since updates for the game ceased over ten years ago, modders have taken on the task of keeping the game fresh. **Empire at War Expanded (EAWX)** is responsible for some of the most popular mods for this classic game, boasting over 500,000 Steam subscribers and countless more downloads from ModDB.
 
-One of the larger projects im apart of is large mod for Star Wars Empire at War [^2] by Petroglyph Games [^1] . Since updates for the game stopped more than 10 years ago its been up to the modders to keep the game fresh. With over 500 000 steam subcribers and countless more downloads from Modb its safe to say that EAWX is responsible for some of the most popular mods for this old game. 
+### My Contribution
 
-I have personally been part of the team for nearly 3 years now, and along with a team of roughly 30 modders we strive to mod Empire at war to make the best star wars strategy game on the market. Personally i have been a Sound Engineer for the team, wheter it being brand new sounds and voices or importing something from a show or movie i have contributed with thousands of sound files for the mods. Other than that i also worked closley with one of the teams animators to create the trailer you can see in here, i also spent alot of time teaching myself how to animate and render videos. My own cinematic is currently under production and i have put in a few clips from it through out this portfolio, but as of yet it is far from being finished. 
+I've been a part of this project for nearly three years. As a Sound Engineer for the team, I've contributed thousands of sound files, including new sounds and voices. I've also imported audio assets from shows and movies. Additionally, I worked closely with one of the team's animators to create trailers and spent time teaching myself animation and video rendering. I'm currently working on my cinematic, some clips of which are featured in this portfolio.
 
-EAWX has a large community with over 10 000+ members on our discord, intrested to see for yourself? Here is an invite link just for you: [^5]
+### EAWX Community
 
-[Fall of The Republic - Launch Trailer (1).webm](https://user-images.githubusercontent.com/58343310/187724848-23367712-e657-412a-972d-ad95734313b6.webm) 
+EAWX has a vibrant community with over 10,000 members on our Discord[^5].
 
-Link to trailer on youtube [^3]
+**Experience the Mod:**
+
+- [Thrawn's Revenge][Ex1]: Creates a new universe based on Star Wars legends with new factions and mechanics.
+- [Fall of the Republic][Ex2]: Brings players into the era of the *Clone Wars*, allowing them to maintain order as the Grand Army of the Republic or sow chaos as part of the Separatist movement. I've personally worked extensively on this mod.
+- [Revan's Revenge][Ex3]: Based on the old republic, this mod explores ancient history in the Star Wars universe (not released yet).
+
+> [Fall of The Republic - Launch Trailer (1).webm](https://user-images.githubusercontent.com/58343310/187724848-23367712-e657-412a-972d-ad95734313b6.webm)
+
+**Link to the trailer on YouTube**[^3]
+
+![EAWX Clip](assets/cis.gif)
+
+*This clip is from one of my own renders; see the full clip on YouTube[^4].*
 
 
-| Empire at War Expanded (EAWX)                    | Description                        |
-| ------------------------------ | ---------------------------------- |
-| [Thrawns Revenge][Ex1]                | Creates a new univerese based on star wars legends with tons of new factions and mechanics.                   |
-| [Fall of The Republic][Ex2]                | Brings the players into the era of the *Clone Wars* one of the most devestating conflicts of the star wars eras, where players can attempt to maintain order as the Grand Army of the Republic or reap chaos as the Sepratist movement. This is the mod i have personally had most work done in.                               |
-| [Revans Revenge][Ex3]                | Based on the old republic, ancient history in star wars. Not released yet.                                 |
 
-
-[Ex1]: https://steamcommunity.com/sharedfiles/filedetails/?id=1125571106
-[Ex2]: https://steamcommunity.com/sharedfiles/filedetails/?id=1976399102
-[Ex3]: https://steamcommunity.com/sharedfiles/filedetails/?id=1125571106
-
-<img src="assets/cis.gif" alt="Coding man" width="100%" height="30%" />
-
-*This is a clip from one of my own renders, see the full clip on YouTube* [^4]
-
-<img src="assets/attack.gif" alt="Coding man" width="70%" height="40%" />
------
+---
 
 ## Beaver City - Emergency 2020 Mod
 
-*wip*
-
------
-
-## Contact me :email:
-    https://www.linkedin.com/in/hannes-hedberg-63854719b/
-
-
-
-[^1]: https://www.google.com/search?rlz=1C1CHBF_svSE970SE970&sxsrf=ALiCzsbjsjSKRypuowDcggzZEyyCK9LqcQ:1661967319080&q=Petroglyph+Games&stick=H4sIAAAAAAAAAOPgE-LUz9U3MDVLLk5XAjNNSsqy87RUspOt9JPL0vWT83MLSktSi-LLMlNS89MTc1OtUlLLUnPyC1KLFrEKBKSWFOWn51QWZCi4A-WKd7Ay7mJn4mAAABb-HFdZAAAA&sa=X&ved=2ahUKEwisiLrdzvH5AhWVXvEDHeAUDGsQmxMoAXoECHwQAw&biw=2752&bih=1002&dpr=1.25
-
-[^2]: https://store.steampowered.com/app/32470/STAR_WARS_Empire_at_War__Gold_Pack/
-
-[^3]: https://youtu.be/iF_VjEOri-U
-
-[^4]: https://youtu.be/EkCtEK4VXV4
-
-[^5]: https://discord.gg/HBPTSKVcMr
+Work in Progress (WIP)
 
 ---
+
+## Contact me :email:
+[LinkedIn Profile](https://www.linkedin.com/in/hannes-hedberg-63854719b/)
+
+---
+
+[^1]: Information about [Petroglyph Games](https://www.google.com/search?rlz=1C1CHBF_svSE970SE970&sxsrf=ALiCzsbjsjSKRypuowDcggzZEyyCK9LqcQ:1661967319080&q=Petroglyph+Games&stick=H4sIAAAAAAAAAOPgE-LUz9U3MDVLLk5XAjNNSsqy87RUspOt9JPL0vWT83MLSktSi-LLMlNS89MTc1OtUlLLUnPyC1KLFrEKBKSWFOWn51QWZCi4A-WKd7Ay7mJn4mAAABb-HFdZAAAA&sa=X&ved=2ahUKEwisiLrdzvH5AhWVXvEDHeAUDGsQmxMoAXoECHwQAw&biw=2752&bih=1002&dpr=1.25)
+
+[^2]: [Star Wars Empire at War: Gold Pack on Steam](https://store.steampowered.com/app/32470/STAR_WARS_Empire_at_War__Gold_Pack/)
+
+[^3]: [EAWX Trailer on YouTube](https://youtu.be/iF_VjEOri-U)
+
+[^4]: [EAWX Clip on YouTube](https://youtu.be/EkCtEK4VXV4)
+
+[^5]: [Join EAWX Community on Discord](https://www.discord.com/invite/eawx)
