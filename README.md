@@ -139,6 +139,8 @@ In such cases, users were prompted to enter the car brand or model mentioned wit
 
 ## Harvard - CS50 :school:
 
+<img src="assets/cs50_harvard.png" alt="CS50 Harvard Banner"/>
+
 > CS50, offered by Harvard University, is a widely renowned and comprehensive introduction to the field of computer science. This course provides students with a strong foundation in computer science and programming, regardless of their prior experience in the field.
 
 ### My CS50 Journey
@@ -157,6 +159,8 @@ I'm currently working my way towards my first CS50 certificate, embarking on a j
 | **Diverse Learning Resources** | Resources include video lectures, problem sets, quizzes, and a robust support system.                                |
 
 CS50 equips students with a strong foundation in computer science and programming, providing a versatile skill set applicable to various industries and career paths.
+
+<img src="assets/duck.jpg" alt="CS50 Duck"/>
 
 ---
 
