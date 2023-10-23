@@ -104,13 +104,13 @@ I'm currently a student at IT-Högskolan, focusing on AI and Machine Learning. H
 
 -----
 
-## Bilvision - Internship 1
+## Bilvision - Internship 1 &#128663;
 
 *WIP*
 
 -----
 
-## Harvard - CS50
+## Harvard - CS50 :school:
 
 *WIP*
 
@@ -133,7 +133,6 @@ These are some of my personal projects, including mods for the game series Arma 
 [Project2]: https://steamcommunity.com/sharedfiles/filedetails/?id=1870770453
 [Project3]: https://github.com/Hannesssss/Hannes-Coding-Projects/releases/tag/v1.0.1
 [Project4]: https://github.com/Hannesssss/Hannes-Coding-Projects/releases/tag/v1.0.1
-<img src="assets/attack.gif" alt="Coding man" width="70%" height="40%" />
 
 -----
 
@@ -170,6 +169,7 @@ Link to trailer on youtube [^3]
 
 *This is a clip from one of my own renders, see the full clip on YouTube* [^4]
 
+<img src="assets/attack.gif" alt="Coding man" width="70%" height="40%" />
 -----
 
 ## Beaver City - Emergency 2020 Mod
