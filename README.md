@@ -15,11 +15,11 @@ Hello, I'm Hannes Hedberg, a student at IT-Högskolan, passionate about AI and M
 ##### Contact Me :email:
 [Hannes LinkedIn Profile](https://www.linkedin.com/in/hannes-hedberg-63854719b/)
 
+<img src="assets/coding.gif" alt="Coding man" width="30%" height="20%" />
+
 ---
 
 ## IT-Högskolan :notebook:
-
-<img src="assets/coding.gif" alt="Coding man" width="30%" height="20%" />
 
 I'm currently a student at IT-Högskolan, focusing on AI and Machine Learning. Here's an overview of my coursework:
 
@@ -90,7 +90,7 @@ I'm currently a student at IT-Högskolan, focusing on AI and Machine Learning. H
 | 10. [Deep Machine Learning][course10]       | Deep Learning, Advanced ML |
 | 11. Internship 2 (LIA 2)          | Internship, Project |
 
-<img src="assets/Python_Text.gif" alt="Python Text"/>
+<img src="assets/Python_Text.gif" alt="Python Text" width="50%" height="40%"/>
 
 [course1]: https://github.com/Hannesssss/Intro-till-AI-Hannes-Hedberg 
 [course2]: https://github.com/Hannesssss/Python-Programming-Hannes-Hedberg
