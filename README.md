@@ -179,10 +179,6 @@ These are some of my personal projects, including mods for the game series Arma 
 [Project3]: https://github.com/Hannesssss/Hannes-Coding-Projects/releases/tag/v1.0.1
 [Project4]: https://github.com/Hannesssss/Hannes-Coding-Projects/releases/tag/v1.0.1
 
------
-
-Certainly, here's the organized version:
-
 ---
 
 ## Empire at War Expanded (EAWX) :star:
