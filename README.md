@@ -119,7 +119,7 @@ I'm currently a student at IT-Högskolan, focusing on AI and Machine Learning. H
 ### Bilvision - Internship Full Description 
 
 <details>
-  <summary><b>Click to Expand</b></summary></b>
+  <summary><b>Click to Expand</b></summary>
   
 During my 8-week tenure at Bilvision, I worked as a Data Scientist. Bilvision utilizes Microsoft Database Manager for its organizational needs. They encountered numerous time-consuming and repetitive tasks within their workflow, prompting the need for machine learning solutions to automate and expedite processes. Their database contained an extensive collection of approximately 32 million vehicles. While a substantial portion of the data included accurate labels for brands and models, a significant amount of information remained concealed within unstructured text strings.
 
