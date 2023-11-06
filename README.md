@@ -2,9 +2,7 @@
 
 Welcome to my GitHub portfolio! I'm Hannes Hedberg, a student specializing in AI and Machine Learning at IT-Högskolan. This repository showcases my journey, encompassing various projects and experiences. Explore the sections below to learn more about my work.
 
-## About Me :speaker:
-
-Hello, I'm Hannes Hedberg, a student at IT-Högskolan, passionate about AI and Machine Learning. This repository offers a glimpse into the diverse projects I've been involved in, including:
+## Projects :speaker:
 
 - IT-Högskolan
 - Internship at Bilvision
